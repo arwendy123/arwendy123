@@ -24,15 +24,15 @@ About Me
 
 ### Reducing Customer Churn Through Business-Focused Data Analysis
 
-Business-oriented exploratory analysis to identify high-risk customer segments and propose actionable retention strategies. 
+Analyzed 7,000+ telecom customer records to identify high-risk churn segments and propose targeted retention strategies.
 
 🔗 https://github.com/arwendy123/reducing-customer-churn-business-analysis
 
 ## Currently Learning
 
 - Advanced SQL for analytics
-- Power BI dashboard design
-- Data storytelling
+- Dashboard design and KPI reporting
+- Data storytelling for business stakeholders
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/arwendy-melyndra-970640200
