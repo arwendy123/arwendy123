@@ -1,6 +1,13 @@
 # Hi, I'm Arwendy 👋 
 
-Aspiring **Data Analyst** focused on turning data into actionable business insights using **Python, SQL, and Power BI**. 
+Aspiring **Data Analyst** focused on turning data into actionable business insights using **Python, SQL, Google BigQuery, and Tableau**.
+
+About Me
+📍 Jakarta, Indonesia
+📊 Interested in business-focused data analysis and visualization
+🐍 Working with Python (Pandas, NumPy, Matplotlib, Seaborn)
+🗄️ Learning SQL and dashboard development
+📈 Focused on building portfolio projects that solve real business problems
 
 ## Tech Stack 
 
