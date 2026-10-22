@@ -8,10 +8,6 @@ Data Analyst based in Jakarta, Indonesia. I turn business data into clear, actio
 Analyzed 7,000+ telecom customers and found that month-to-month, Fiber optic customers without support add-ons are 21.7% of the base but 49.5% of all churners. Includes retention recommendations with an estimated revenue impact.
 `Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
 
-**[Customer Churn Prediction](https://github.com/arwendy123/customer-churn-prediction-and-analysis)**
-XGBoost and Random Forest models to flag telecom customers likely to churn (XGBoost: 95% accuracy, 73% recall).
-`Python` `scikit-learn` `XGBoost`
-
 **[Indonesia COVID-19 Dashboard](https://lookerstudio.google.com/reporting/d63997bf-82bc-45d1-9d37-c8a4eafb3a84)**
 Looker Studio dashboard tracking daily cases and deaths by region, with SQL-prepared data.
 `Looker Studio` `SQL`
@@ -24,7 +20,7 @@ More projects: [full portfolio](https://github.com/arwendy123/data-scientist-ana
 
 ## Tech Stack
 
-- **Analysis:** Python (Pandas, NumPy, SciPy, scikit-learn, XGBoost), SQL
+- **Analysis:** Python (Pandas, NumPy, SciPy, scikit-learn), SQL
 - **Visualization:** Matplotlib, Seaborn, Folium, Looker Studio
 - **Tools:** Git & GitHub, Jupyter, Google Colab
 - **Currently building projects with:** Google BigQuery, Tableau
