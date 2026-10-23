@@ -33,4 +33,4 @@ More projects: [full portfolio](https://github.com/arwendy123/data-scientist-ana
 
 - [LinkedIn](https://www.linkedin.com/in/arwendy-melyndra-970640200)
 - [Portfolio](https://github.com/arwendy123/data-scientist-analyst-portfolio)
-- [Resume (PDF)](https://github.com/arwendy123/data-scientist-analyst-portfolio/blob/main/Arwendy%20Melyndra%20-%20Data%20Analytics%20-%20Resume.pdf)
+- [Resume (PDF)](https://github.com/arwendy123/data-analyst-portfolio/blob/main/arwendy-melyndra-resume.pdf)
