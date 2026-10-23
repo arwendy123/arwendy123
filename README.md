@@ -8,7 +8,7 @@ Data Analyst based in Jakarta, Indonesia. I turn business data into clear, actio
 Analyzed 7,000+ telecom customers and found that month-to-month, Fiber optic customers without support add-ons are 21.7% of the base but 49.5% of all churners. Includes retention recommendations with an estimated revenue impact.
 `Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
 
-**[Beijing Air Quality Dashboard](https://beijing-air-quality-dashboard-xwyyappkowvxrqr5bwwbcsq.streamlit.app/)** ([code](https://github.com/arwendy123/beijing-air-quality-dashboard))
+**[Beijing Air Quality Dashboard](https://arwendy-beijing-air-quality.streamlit.app/)** ([code](https://github.com/arwendy123/beijing-air-quality-dashboard))
 Interactive Streamlit app comparing 12 monitoring stations: 40% of station-days exceed China's 24-hour PM2.5 limit, and winter PM2.5 runs about 47% higher than summer.
 `Python` `Pandas` `Streamlit` `Seaborn`
 
