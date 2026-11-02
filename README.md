@@ -8,15 +8,15 @@ Data Analyst based in Jakarta, Indonesia. I turn business data into clear, actio
 Analyzed 7,000+ telecom customers and found that month-to-month, Fiber optic customers without support add-ons are 21.7% of the base but 49.5% of all churners. Includes retention recommendations with an estimated revenue impact.
 `Python` `Pandas` `SciPy` `Matplotlib` `Seaborn`
 
-**[Beijing Air Quality Dashboard](https://arwendy-beijing-air-quality.streamlit.app/)** ([code](https://github.com/arwendy123/beijing-air-quality-dashboard))
+**[Beijing Air Quality Dashboard](https://beijing-air-quality-dashboard-xwyyappkowvxrqr5bwwbcsq.streamlit.app/)** ([code](https://github.com/arwendy123/beijing-air-quality-dashboard))
 Interactive Streamlit app comparing 12 monitoring stations: 40% of station-days exceed China's 24-hour PM2.5 limit, and winter PM2.5 runs about 47% higher than summer.
 `Python` `Pandas` `Streamlit` `Seaborn`
 
-**[Indonesia COVID-19 Dashboard](https://lookerstudio.google.com/reporting/d63997bf-82bc-45d1-9d37-c8a4eafb3a84)**
-Looker Studio dashboard tracking daily cases and deaths by region, with SQL-prepared data.
-`Looker Studio` `SQL`
+**[E-commerce Sales Analysis with SQL and BigQuery](https://github.com/arwendy123/ecommerce-sql-bigquery-analysis)**
+BigQuery analysis of 48,000 software-subscription transactions: annual plans are 48.5% of transactions but 88.3% of sales, and discount codes cost 4.2% of gross sales with no change in order size. Includes a data audit that found 37.8% of transactions dated before customer signup.
+`BigQuery SQL` `Window functions` `RFM` `Python`
 
-More projects: [full portfolio](https://github.com/arwendy123/data-scientist-analyst-portfolio)
+More projects: [full portfolio](https://github.com/arwendy123/data-analyst-portfolio)
 
 ## Experience Highlights
 
@@ -24,13 +24,13 @@ More projects: [full portfolio](https://github.com/arwendy123/data-scientist-ana
 
 ## Tech Stack
 
-- **Analysis:** Python (Pandas, NumPy, SciPy, scikit-learn), SQL
+- **Analysis:** Python (Pandas, NumPy, SciPy, scikit-learn), SQL (Google BigQuery)
 - **Visualization:** Matplotlib, Seaborn, Folium, Streamlit, Looker Studio
 - **Tools:** Git & GitHub, Jupyter, Google Colab
-- **Currently building projects with:** Google BigQuery, Tableau
+- **Currently building projects with:** Tableau
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arwendy-melyndra-970640200)
-- [Portfolio](https://github.com/arwendy123/data-scientist-analyst-portfolio)
+- [Portfolio](https://github.com/arwendy123/data-analyst-portfolio)
 - [Resume (PDF)](https://github.com/arwendy123/data-analyst-portfolio/blob/main/arwendy-melyndra-resume.pdf)
