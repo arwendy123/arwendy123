@@ -16,6 +16,10 @@ Interactive Streamlit app comparing 12 monitoring stations: 40% of station-days 
 BigQuery analysis of 48,000 software-subscription transactions: annual plans are 48.5% of transactions but 88.3% of sales, and discount codes cost 4.2% of gross sales with no change in order size. Includes a data audit that found 37.8% of transactions dated before customer signup.
 `BigQuery SQL` `Window functions` `RFM` `Python`
 
+**[Streaming Subscription Dashboard (Tableau)](https://public.tableau.com/shared/H8W5F2FSW?:display_count=n&:origin=viz_share_link)** ([code](https://github.com/arwendy123/streaming-subscription-tableau-dashboard))
+Three Tableau dashboards on a music streaming service: MRR grew from $1.2K to $8.1K, but a third of today's MRR comes from system adjustments, and half of the users are fraud-flagged and produce 70% of all sessions.
+`Tableau` `Python` `Pandas`
+
 More projects: [full portfolio](https://github.com/arwendy123/data-analyst-portfolio)
 
 ## Experience Highlights
@@ -25,9 +29,8 @@ More projects: [full portfolio](https://github.com/arwendy123/data-analyst-portf
 ## Tech Stack
 
 - **Analysis:** Python (Pandas, NumPy, SciPy, scikit-learn), SQL (Google BigQuery)
-- **Visualization:** Matplotlib, Seaborn, Folium, Streamlit, Looker Studio
+- **Visualization:** Tableau, Matplotlib, Seaborn, Folium, Streamlit, Looker Studio
 - **Tools:** Git & GitHub, Jupyter, Google Colab
-- **Currently building projects with:** Tableau
 
 ## Connect
 
