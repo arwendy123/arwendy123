@@ -24,7 +24,7 @@ More projects: [full portfolio](https://github.com/arwendy123/data-analyst-portf
 
 ## Experience Highlights
 
-- Built web scrapers that collected 1,000+ points of interest in Japan
+- Built web scrapers that collected 1,500+ points of interest in Japan
 
 ## Tech Stack
 
