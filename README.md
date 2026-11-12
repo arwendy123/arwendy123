@@ -20,6 +20,10 @@ BigQuery analysis of 48,000 software-subscription transactions: annual plans are
 Three Tableau dashboards on a music streaming service: MRR grew from $1.2K to $8.1K, but a third of today's MRR comes from system adjustments, and half of the users are fraud-flagged and produce 70% of all sessions.
 `Tableau` `Python` `Pandas`
 
+**[Credit Risk: Which Loans to Approve](https://github.com/arwendy123/credit-risk-default-analysis)**
+Predicts loan default on 32,581 applications (gradient boosting, AUC 0.891) and picks the approval cut-off from profit: it earns 9% more than the default 0.50 cut-off, and only 8.4% of the approved loans default (vs 21.8% overall). Leaves out the lender's own grade to avoid leakage.
+`Python` `scikit-learn` `Classification` `Pandas`
+
 More projects: [full portfolio](https://github.com/arwendy123/data-analyst-portfolio)
 
 ## Experience Highlights
